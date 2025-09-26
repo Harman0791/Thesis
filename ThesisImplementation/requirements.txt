@@ -1,0 +1,11 @@
+#!pip install chromadb
+#!pip install datasets
+#!pip install sentence-transformers 
+#!pip install annoy
+#!pip install transformers
+#!pip install pandas psutil
+#!pip install bert-score
+#!pip install torch faiss-cpu
+#!pip install evaluate
+#!pip install --upgrade protobuf
+#!pip install rank_bm25
